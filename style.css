@@ -141,6 +141,11 @@ nav ul li .dropdown-item:hover {
 .p-20 {
     padding: 20px!important;
 }
+/* map */
+.mymap{
+    filter: grayscale(100%) invert(100%);
+}
+
 
 
 
