@@ -20,12 +20,13 @@ const EmailRegex = /^[a-zA-Z0-9.%+-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,}$/;
 const PhoneNumberRegex = /^(?:\d{1,3})?\d{10,14}$/;
 
 // envoyer un mail
-let nomValid = false;
-let prenomValid = false;
-let emailValid = false;
-let msgValid = false;
-let sujetValid = false;
-let telValid = false;
+// let nomValid = false;
+// let prenomValid = false;
+// let emailValid = false;
+// let msgValid = false;
+// let sujetValid = false;
+// let telValid = false;
+
 
 // fonction
 function addClass(element, regex, value) {
