@@ -2,7 +2,8 @@
 
 **Réaliser la partie Frontend salle de sport**
 
-![capture d'ecran](img.PNG)
+![image](https://github.com/JMUPPYX/Projet-grpe-salle--de-sport/assets/148784893/54b95823-84bf-467c-8bd6-6d7c6021e86f)
+
 
 Vous devez intégrer une maquette HTML/CSS/JS pour un client qui désire lancer son site qui présente sa salle de sport.
 
